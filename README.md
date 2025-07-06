@@ -1,22 +1,20 @@
-# face-recognition-car-safety
-A facial recognition system built using Python and OpenCV for use in car safety applications.
 # Face Recognition System for Car Safety
 
-This project detects and recognizes human faces using OpenCV and Haarcascade. It is designed to be integrated into vehicle systems for driver identification and security.
+This project uses facial recognition to detect and identify individuals with the goal of improving car safety systems. The system is built using Python and OpenCV, with Haarcascade classifiers for face detection.
 
-##  Tech Used
+## Features
+- Real-time face detection and recognition
+- Approximately 92% accuracy in identifying known faces
+- Designed for use in vehicles to enhance driver authentication
+
+## Tech Stack
 - Python
 - OpenCV
 - Haarcascade XML classifiers
 
-##  Features
-- Real-time face detection
-- ~92% accuracy in face recognition
-- Planned integration with car safety mechanisms
-
-##  Future Scope
-- Link to Arduino or IoT systems for real-time car control
-- Emergency lock/unlock features based on face ID
+## Future Scope
+- Integration with vehicle hardware (e.g., door lock/unlock systems)
+- Alert mechanisms for unauthorized access or unknown users
 
 ## Author
 Aniket Kumar
